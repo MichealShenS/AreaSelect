@@ -1,6 +1,8 @@
 # AreaSelect
 项目：四级地址选择器
 
+
+
 一、使用方式
 
 1、在 project 的 build.gradle 中添加
@@ -18,12 +20,12 @@ compile 'com.github.TheWindMeanFar:AreaSelect:1.0'
 ```
 3、调用方法
 ```
-new AddressDialog(context, 4, new FinishListener() {   
+new AreaSelector(context, 4, new FinishListener() {   
   @Override    
   public void finish(AreaInfo areaInfo) {       
     //地址信息在 AreaInfo 中
   }
-}).show();
+}).setTitleBgColor(R.color.red).show();
 ```
 参数1：Context
 
