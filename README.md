@@ -2,6 +2,7 @@
 项目：四级地址选择器
 
 ![image](https://github.com/TheWindMeanFar/AreaSelect/blob/master/Screenshot/Screenshot_1505531470.png) 
+<img src="https://github.com/TheWindMeanFar/AreaSelect/blob/master/Screenshot/Screenshot_1505531470.png">
 
 一、使用方式
 
