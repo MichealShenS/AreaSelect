@@ -1,7 +1,7 @@
 # AreaSelect
 项目：四级地址选择器
 
-![image](https://github.com/TheWindMeanFar/AreaSelect/blob/master/Screenshot/Screenshot_1505531470.png)
+![image](https://github.com/TheWindMeanFar/AreaSelect/blob/master/Screenshot/Screenshot_1505531470.png =100x100)
 
 一、使用方式
 
