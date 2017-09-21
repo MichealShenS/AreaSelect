@@ -12,6 +12,7 @@ allprojects {      
     jcenter()            
     maven { url 'https://jitpack.io' }       
     maven { url 'https://maven.google.com' }
+  }
 }
 ``` 
 2、在 module 的 build.gradle 中添加
